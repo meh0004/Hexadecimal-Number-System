@@ -1,0 +1,30 @@
+h1 {
+    color:palevioletred
+}
+  /*{
+      border:solid
+  }
+  */
+.header {
+   background-color:blueviolet;
+   display:flex;
+   justify-content: space-between;
+}
+.grid {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer {
+    display:flex;
+    justify-content: flex-end;
+    background-color:#D8A0D8
+   
+}
+p, h2 {
+    text-align:center;
+    font-size: 16px;
+}
+body{
+    background-color:#FFC0C6
+}
